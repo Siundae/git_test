@@ -1,2 +1,2 @@
 # git_test
-This is Sinead's first git project!
+This is Siundae's first git project!
